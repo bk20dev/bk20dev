@@ -13,10 +13,10 @@ Trees [(link)](https://github.com/senicko/trees) - a mobile app that helps reduc
 
 - Double finalist in the Motorola Science Cup competition\
   _Motorola Solutions · 2022, 2021_
+- Frank Hirschvogel Foundation scholarship holder\
+  _Frank Hirschvogel Stiftung · 2021, 2022_
 - Recipient of the Gliwicki Laur Nauki award\
   _Prezydent miasta Gliwice · 2021_
-- Frank Hirschvogel Foundation scholarship holder\
-  _Frank Hirschvogel Stiftung · 2021_
 
 ### Contact me 🤙
 
