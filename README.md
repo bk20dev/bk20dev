@@ -20,6 +20,6 @@ Trees [(link)](https://github.com/senicko/trees) - a mobile app that helps reduc
 
 ### Contact me 🤙
 
-[me.bartoszbieniek@gmail.com](me.bartoszbieniek@gmail.com)\
+[me.bartoszbieniek@gmail.com](mailto:me.bartoszbieniek@gmail.com)\
 LinkedIn: [@bartosz-bieniek](https://www.linkedin.com/in/bartosz-bieniek/)\
 Discord: [bk20#1234](https://discord.com/users/236373708350947328)
