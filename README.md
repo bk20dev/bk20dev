@@ -1,6 +1,6 @@
 # Hello! 🖐️
 
-I'm Bartek, an ambitious and creative high school student passionate about web development.
+I'm Bartek, an ambitious and creative high school student passionate about mobile and web development.
 
 ### Projects I'm proud of 🎉
 
@@ -14,9 +14,9 @@ Trees [(link)](https://github.com/senicko/trees) - a mobile app that helps reduc
 - Double finalist in the Motorola Science Cup competition\
   _Motorola Solutions · 2022, 2021_
 - Frank Hirschvogel Foundation scholarship holder\
-  _Frank Hirschvogel Stiftung · 2021, 2022_
+  _Frank Hirschvogel Stiftung · 2022, 2021_
 - Recipient of the Gliwicki Laur Nauki award\
-  _Prezydent miasta Gliwice · 2021_
+  _Prezydent miasta Gliwice · 2022, 2021_
 
 ### Contact me 🤙
 
