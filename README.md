@@ -1,13 +1,13 @@
-# Hello! 🖐️
+# Hi there! 🖐️
 
 I'm Bartek, an ambitious and creative high school student passionate about mobile and web development.
 
 ### Projects I'm proud of 🎉
 
-Logic Gates Simulator [(link)](https://github.com/team-nullptr/logic-gates-simulator) - app for electronics hobbyists\
+Logic Gates Simulator [(link)](https://github.com/team-nullptr/logic-gates-simulator) - an app for electronics hobbyists\
 Sokoban Game [(link)](https://github.com/bk20dev/sokoban) - my implementation of a famous puzzle game\
-Amusement Park [(link)](https://github.com/bk20dev/amusement-park-backend) - backend app for an imaginary amusement park\
-Trees [(link)](https://github.com/senicko/trees) - a mobile app that helps reduce carbon emission
+Amusement Park [(link)](https://github.com/bk20dev/amusement-park-backend) - a backend for an imaginary amusement park\
+Trees [(link)](https://github.com/senicko/trees) - a mobile app which helps reduce carbon emission
 
 ### My achievements 🏆
 
@@ -18,7 +18,7 @@ Trees [(link)](https://github.com/senicko/trees) - a mobile app that helps reduc
 - Recipient of the Gliwicki Laur Nauki award\
   _Prezydent miasta Gliwice · 2022, 2021_
 
-### Contact me 🤙
+### Get in touch 🤙
 
 [me.bartoszbieniek@gmail.com](mailto:me.bartoszbieniek@gmail.com)\
 LinkedIn: [@bartosz-bieniek](https://www.linkedin.com/in/bartosz-bieniek/)\
