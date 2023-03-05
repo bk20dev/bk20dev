@@ -5,7 +5,7 @@ I'm Bartek, an ambitious and creative high school student passionate about mobil
 ### Projects I'm proud of 🎉
 
 Logic Gates Simulator [(link)](https://github.com/team-nullptr/logic-gates-simulator) - an app for electronics hobbyists\
-Trees [(link)](https://github.com/bk20dev/forest) - a mobile app, which helps fight the climate change\
+Forest [(link)](https://github.com/bk20dev/forest) - a mobile app, which helps fight the climate change\
 Sokoban Game [(link)](https://github.com/bk20dev/sokoban) - my implementation of a famous puzzle game\
 Amusement Park [(link)](https://github.com/bk20dev/amusement-park-backend) - a backend for an imaginary amusement park
 
