@@ -11,6 +11,8 @@ Amusement Park [(link)](https://github.com/bk20dev/amusement-park-backend) - a b
 
 ### My achievements 🏆
 
+- First degree laureate of the "O złoty indeks Politechniki Śląskiej" competition\
+  _Rektor Politechniki Śląskiej · 2023_
 - Double finalist in the Motorola Science Cup competition\
   _Motorola Solutions · 2022, 2021_
 - Frank Hirschvogel Foundation scholarship holder\
