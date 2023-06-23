@@ -11,14 +11,16 @@ Amusement Park [(link)](https://github.com/bk20dev/amusement-park-backend) - a b
 
 ### My achievements 🏆
 
+- Third place in the Silesian CYBERhackathon 2023\
+  _Politechnika Śląska, ISAC-GIG, JSW S.A., JSW IT Systems · [2023](https://www.facebook.com/zsti.gliwice/posts/727478272715296)_
 - First degree laureate of the "O złoty indeks Politechniki Śląskiej" competition\
-  _Rektor Politechniki Śląskiej · 2023_
-- Double finalist in the Motorola Science Cup competition\
-  _Motorola Solutions · 2022, 2021_
+  _Rektor Politechniki Śląskiej · [2023](https://www.facebook.com/PolitechnikaSlaska/posts/5946384442077244)_
 - Frank Hirschvogel Foundation scholarship holder\
-  _Frank Hirschvogel Stiftung · 2022, 2021_
+  _Frank Hirschvogel Stiftung · 2023, 2022, 2021_
+- Double finalist in the Motorola Science Cup competition\
+  _Motorola Solutions · [2022](https://edukacja.gliwice.eu/aktualnosci/oswiata/miejsce-na-pudle-w-konkursie-motoroli-dla-uczniow-zsti), [2021](https://www.facebook.com/zsti.gliwice/posts/4269897129711995)_
 - Recipient of the Gliwicki Laur Nauki award\
-  _Prezydent miasta Gliwice · 2022, 2021_
+  _Prezydent Miasta Gliwice · 2022, [2021](https://www.facebook.com/zsti.gliwice/posts/4843096409058728)_
 
 ### Get in touch 🤙
 
