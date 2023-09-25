@@ -26,4 +26,4 @@ Amusement Park [(link)](https://github.com/bk20dev/amusement-park-backend) - a b
 
 [me.bartoszbieniek@gmail.com](mailto:me.bartoszbieniek@gmail.com)\
 LinkedIn: [@bartosz-bieniek](https://www.linkedin.com/in/bartosz-bieniek/)\
-Discord: [bk20#1234](https://discord.com/users/236373708350947328)
+Discord: [bk20](https://discord.com/users/236373708350947328)
