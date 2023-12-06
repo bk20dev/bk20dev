@@ -20,7 +20,7 @@ Amusement Park [(link)](https://github.com/bk20dev/amusement-park-backend) - a b
 - Double finalist in the Motorola Science Cup competition\
   _Motorola Solutions · [2022](https://edukacja.gliwice.eu/aktualnosci/oswiata/miejsce-na-pudle-w-konkursie-motoroli-dla-uczniow-zsti), [2021](https://www.facebook.com/zsti.gliwice/posts/4269897129711995)_
 - Recipient of the Gliwicki Laur Nauki award\
-  _Prezydent Miasta Gliwice · 2022, [2021](https://www.facebook.com/zsti.gliwice/posts/4843096409058728)_
+  _Prezydent Miasta Gliwice · [2023](https://www.facebook.com/zsti.gliwice/posts/831109672352155), 2022, [2021](https://www.facebook.com/zsti.gliwice/posts/4843096409058728)_
 
 ### Get in touch 🤙
 
