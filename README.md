@@ -11,7 +11,7 @@ Amusement Park [(link)](https://github.com/bk20dev/amusement-park-backend) - a b
 
 ### My achievements 🏆
 
-- First place in Gigathon 2023 in oldest age-group\
+- First place in Gigathon 2023 in the oldest age-group\
   _Giganci Programowania_ · 2024 [¹↗](https://www.instagram.com/p/C3AhURzJY55/) [²↗](https://www.instagram.com/p/C29pwP5oBuX/)
 - Third place in Silesian CYBERhackathon 2023\
   _Politechnika Śląska, ISAC-GIG, JSW S.A., JSW IT Systems · [2023↗](https://www.facebook.com/zsti.gliwice/posts/727478272715296)_
