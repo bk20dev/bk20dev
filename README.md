@@ -10,7 +10,7 @@
 
 <ul>
     <li>
-        Forest <a href="https://github.com/bk20dev/forest">(link)</a>
+        Forest 🌳 <a href="https://github.com/bk20dev/forest">(link)</a>
         - a mobile app, which helps fight the climate change
     </li>
     <li>
