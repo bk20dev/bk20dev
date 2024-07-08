@@ -74,7 +74,7 @@
             <i>
                 Frank Hirschvogel Stiftung
                 ·
-                2024,
+                <a href="https://www.linkedin.com/in/bartosz-bieniek/overlay/1714170091905/single-media-viewer/?profileId=ACoAADjDfDYBr_BjshFUgpWhI-VYU09p5EWb61Y">2024↗</a>,
                 <a href="https://www.facebook.com/photo/?fbid=728725062590617&set=pcb.728727419257048">2023↗</a>,
                 2022,
                 2021
