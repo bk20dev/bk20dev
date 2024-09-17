@@ -2,7 +2,7 @@
 
 <h1>Hi there 🖐️</h1>
 <p>
-    I'm Bartek, an ambitious and creative high school student,
+    I'm Bartek, an ambitious and creative university student,
     passionate about <em>mobile</em> and <em>web development</em>.
 </p>
 
