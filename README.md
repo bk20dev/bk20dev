@@ -27,7 +27,7 @@
 
 <ul>
     <li>
-        First place in Gigation 2023 in the oldest age-group<br>
+        First place in Gigathon 2023 in the oldest age-group<br>
         <i>
             Giganci Programowania
             ·
